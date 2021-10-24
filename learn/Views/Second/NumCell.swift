@@ -11,6 +11,7 @@ class NumCell: UITableViewCell {
     @IBOutlet weak var vTitle: UILabel!
     @IBOutlet weak var vSwitch: UISwitch!
 
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

@@ -10,6 +10,7 @@ import UIKit
 class HeaderCell: UITableViewCell {
     @IBOutlet weak var vTitle: UILabel!
     
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
